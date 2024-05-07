@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Quentin from France !<br><br>- 🔭 I’m working as a tech lover 😍 <br>- 📚 I'm currently learning NextJS and TailwindCSS and I love it !<br>- ⚡ In my free time I steal coding !</p>
+<p align="left">I'm Quentin from France !<br><br>- 🔭 I’m working as a tech lover 😍 <br>- 📚 I'm currently learning NextJS and TailwindCSS and I love it !<br>- ⚡ In my free time I steal coding !<br>- My passion ? KEEP LEARNING 🚀 !</p>
 
 ###
 
