@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Quentin from France !<br><br>- 🔭 I’m working as a tech lover 😍 <br>- 📚 I'm currently learning NextJS and TailwindCSS and I love it !<br>- ⚡ In my free time I steal coding !<br>- 🚀 My passion ? KEEP LEARNING 🚀 !</p>
+<p align="left">I'm Quentin from France !<br><br>- 🔭 I’m working as a tech lover 😍 <br>- 📚 I'm really fan of NextJS and TailwindCSS and I'm currently learning Rust !<br>- ⚡ In my free time I steal coding !<br>- 🚀 My passion ? KEEP LEARNING 🚀 !</p>
 
 ###
 
