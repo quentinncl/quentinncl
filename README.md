@@ -60,11 +60,10 @@ Développeur full-stack passionné, entrepreneur et formateur basé en **Nouv
 | Clean Code & bonnes pratiques | Tous niveaux |
 | Cloud & architectures modernes | Intermédiaire |
 
-Et plein d'autres trucs cools ! Plus d'infos [ici](https://othila-academy.com) ❤️
+Et plein d'autres trucs cools ! Plus d'infos chez [Othila Academy](https://othila-academy.com) ❤️
 
 ---
 
 ### 🔥 Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=quentinncl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2)](https://github.com/quentinncl)
 [![Streak](https://streak-stats.demolab.com?user=quentinncl&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/quentinncl)
